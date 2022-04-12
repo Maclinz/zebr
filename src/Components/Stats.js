@@ -84,7 +84,7 @@ const StatsStyled = styled(RevealAnimation)`
             display: flex;
             justify-content: space-between;
             span{
-                margin-right:1rem ;
+                //margin-right:1rem ;
                 opacity: .8;
             }
             @media screen and (max-width: 673px){
@@ -110,7 +110,7 @@ const StatsStyled = styled(RevealAnimation)`
                 letter-spacing: 2px ;
                 span{
                     font-size:1.6rem;
-                    margin-right: 1rem;
+                    //margin-right: 1rem;
                     display: flex; 
                     align-items: center;
                     justify-content: center;
